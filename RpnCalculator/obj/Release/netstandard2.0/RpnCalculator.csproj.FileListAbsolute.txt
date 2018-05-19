@@ -1,0 +1,10 @@
+C:\Users\mcpel\Downloads\RpnCalculator\RpnCalculator\RpnCalculator\bin\Release\netstandard2.0\RpnCalculator.deps.json
+C:\Users\mcpel\Downloads\RpnCalculator\RpnCalculator\RpnCalculator\bin\Release\netstandard2.0\RpnCalculator.dll
+C:\Users\mcpel\Downloads\RpnCalculator\RpnCalculator\RpnCalculator\bin\Release\netstandard2.0\RpnCalculator.pdb
+C:\Users\mcpel\Downloads\RpnCalculator\RpnCalculator\RpnCalculator\obj\Release\netstandard2.0\RpnCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mcpel\Downloads\RpnCalculator\RpnCalculator\RpnCalculator\obj\Release\netstandard2.0\RpnCalculator.App.xaml.g.cs
+C:\Users\mcpel\Downloads\RpnCalculator\RpnCalculator\RpnCalculator\obj\Release\netstandard2.0\RpnCalculator.MainPage.xaml.g.cs
+C:\Users\mcpel\Downloads\RpnCalculator\RpnCalculator\RpnCalculator\obj\Release\netstandard2.0\RpnCalculator.AssemblyInfoInputs.cache
+C:\Users\mcpel\Downloads\RpnCalculator\RpnCalculator\RpnCalculator\obj\Release\netstandard2.0\RpnCalculator.AssemblyInfo.cs
+C:\Users\mcpel\Downloads\RpnCalculator\RpnCalculator\RpnCalculator\obj\Release\netstandard2.0\RpnCalculator.dll
+C:\Users\mcpel\Downloads\RpnCalculator\RpnCalculator\RpnCalculator\obj\Release\netstandard2.0\RpnCalculator.pdb
